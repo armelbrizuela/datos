@@ -1,0 +1,501 @@
+cuest
+Número de cuestionario
+
+fecha
+Fecha de la aplicación de la encuesta
+
+UCR
+¿Es estudiante de la UCR?
+
+P1Sexo
+Sexo
+
+P2Edad
+Edad
+
+P3Nacionalidad
+Nacionalidad
+
+P4Grupoetnico
+Grupo étnico
+
+P5OrienSexual
+Orientación sexual
+
+P6Estadocivil
+Estado Civil actual
+
+P7Nivelestudios
+Nivel de estudios
+
+P8Hijos1
+Tiene hijos/as
+
+P8aHijos2
+Si tiene hijos/as, ¿cuántos tiene?
+
+P8bHijos3
+Si no tiene, ¿quisiera tenerlos/as en el futuro?
+
+P9Estudiospa
+Nivel de estudios papá
+
+P10Estudiosma
+Nivel de estudios mamá
+
+P11Crianza
+¿Cuál de los siguientes enunciados describe mejor la forma en que fue  criado/a desde que nació y hasta los 18 años?
+
+P12Encargada
+¿quien fue la principal persona encargada de su crianza?
+
+P13EstCiPro
+Estado Civil actual de sus progenitores (papá y mamá)
+
+P14ProVivenJun
+¿Sus progenitores (mamá y papá) viven juntos actualmente?
+
+P15EdadSep
+¿Qué edad tenía usted cuando sus progenitores dejaron de vivir juntos por vez primera?
+
+P16Progenitores
+Sus progenitores...
+
+P17Progenitores
+¿Qué edad tenía cuando sus progenitores dejaron de vivir juntos definitivamente?
+
+P18Progenitores
+Porqué dejaron de vivir juntos sus progenitores?
+
+P19HerBiol
+¿Cuántos hermanos(as) biológicos(as)  completos(as) tiene?
+
+P20Her1
+Edad Hermano 1
+
+P20Her2
+Edad Hermano 2
+
+P20Her3
+Edad Hermano 3
+
+P20Her4
+Edad Hermano 4
+
+P20Her5
+Edad Hermano 5
+
+P20Her6
+Edad Hermano 6
+
+P21OrdenNac
+En el orden de nacimiento, es usted
+
+saludgeneral
+En general, usted diría que su salud es:
+
+saludcomparada
+¿Cómo diría que su salud actual, comparada con la de hace un año?
+
+actividadfisica
+¿Realiza usted actividad física?
+
+miedo
+Sensación de miedo
+
+mareos
+Mareos o desmayos
+
+nervios
+Nervios y ansiedad
+
+llanto
+Tendencia al llanto
+
+culpa
+Echarse a uno(a) mismo(a) la culpa de todo
+
+pánico
+Miedo súbito o pánico sin motivos
+
+insomnio
+Dificultades para conciliar el sueño
+
+desesperación
+Desesperación con respecto al futuro
+
+vidadura
+Sentir que la vida es muy dura y conflictiva
+
+fatiga
+Fatiga
+
+preocupaciones
+Muchas preocupaciones
+
+saludfem1
+¿A qué edad tuvo su primera menstruación?
+
+saludfem2
+¿Tiene usted un ciclo regular?
+
+saludfem3
+¿Cuántos días le dura su menstruación?
+
+saludfem4
+¿Su sangrado es?
+
+saludfem5
+¿Siente usted cambios en su ánimo durante la menstruación?
+
+saludfem6
+¿Por favor anote la fecha de su última menstruación?
+
+Pareja1
+¿Se encuentra usted en una relación de pareja estable en este momento?
+
+Parejameses
+Anotar los meses si tiene pareja
+
+Parejaaños
+Anotar los años si tiene pareja
+
+Noparejameses
+Anotar los meses si no tiene pareja
+
+Noparejaaños
+Anotar los años si no tiene pareja
+
+PANAS1
+Interesado(a)
+
+PANAS2
+Dispuesto (a)
+
+PANAS3
+Animado (a)
+
+PANAS4
+Disgustado(a)/enfadado(a)
+
+PANAS5
+Enérgico(a)
+
+PANAS6
+Culpable
+
+PANAS7
+Temeroso(a)
+
+PANAS8
+Enojado(a)
+
+PANAS9
+Entusiasmado(a)
+
+PANAS10
+Orgulloso(a)
+
+PANAS11
+Irritado(a)
+
+PANAS12
+Tenso(a)
+
+PANAS13
+Avergonzado(a)
+
+PANAS14
+Inspirado(a)
+
+PANAS15
+Nervioso(a)
+
+PANAS16
+Decidido(a )
+
+PANAS17
+Atento(a)
+
+PANAS18
+Intranquilo(a)
+
+PANAS19
+Activo(a)
+
+PANAS20
+Asustado(a)
+
+sociosex3
+En general  ¿Cuántas parejas sexuales ha tenido a lo largo de tu vida?
+
+sociosex4
+¿Con cuántas personas ha tenido sexo solo una vez y en una ocasión a lo largo de su vida?
+
+sociosex5
+¿Con cuántas personas diferentes ha tenido sexo en el último año?
+
+sociosex6
+¿Con cuántas personas diferentes  se imagina que podrá tener sexo en los próximos cinco años?
+
+AP1
+La máxima autoridad de la casa es el padre/esposo
+
+AP2
+La mujer debe obedecer a su esposo.
+
+AP3
+Las leyes no deben intervenir en los conflictos entre esposos.
+
+AP4
+El hombre es el más indicado para tomar las decisiones en la casa.
+
+AP5
+Una mujer no debe discutir las órdenes de su esposo.
+
+AP6
+El gobierno no debe intervenir en los asuntos internos de la familia.
+
+AP7
+Los padres tienen la autoridad en la familia y nadie debe discutirlo.
+
+ASI1
+Un hombre no está verdaderamente completo sin el amor de una mujer.
+
+ASI2
+En nombre de la igualdad, muchas mujeres intentan conseguir ciertos privilegios.
+
+ASI3
+En catástrofes, las mujeres deberían ser rescatadas antes que los hombres.
+
+ASI4
+Muchas mujeres interpretan comentarios y acciones inocentes como sexistas
+
+ASI5
+Las mujeres se ofenden fácilmente.
+
+ASI6
+Las personas pueden ser realmente felices sin necesidad de tener una pareja.
+
+ASI7
+Las feministas intentan que las mujeres tengan más poder que los hombres.
+
+ASI8
+Las mujeres se caracterizan por una pureza que pocos hombres poseen.
+
+ASI9
+Las mujeres deberían ser queridas y protegidas por los hombres.
+
+ASI10
+Las mujeres no valoran suficientemente todo lo que los hombres hacen por ellas.
+
+ASI11
+Las mujeres buscan ganar poder manipulando a los hombres.
+
+ASI12
+Todo hombre debería tener una mujer a quien amar.
+
+ASI13
+Una mujer está incompleta sin un hombre a su lado.
+
+ASI14
+Las mujeres exageran los problemas que tienen en el trabajo.
+
+ASI15
+La mujer busca comprometerse con un hombre para controlarlo.
+
+ASI16
+Cuando las mujeres pierden de manera justa en una situación de competencia contra hombres, por lo general se quejan de haber sufrido discriminación.
+
+ASI17
+Una buena mujer debería ser puesta en un pedestal por su hombre.
+
+ASI18
+Muchas mujeres, para burlarse de los hombres, utilizan su apariencia sexual para atraerlos y después rechazarlos.
+
+ASI19
+Las mujeres poseen una mayor integridad moral que los hombres.
+
+ASI20
+Los hombres deberían estar dispuestos a sacrificar su propio bienestar con el fin de proveer bienestar económico a las mujeres.
+
+ASI21
+Las mujeres están haciendo a los hombres demandas completamente irracionales.
+
+ASI22
+Las mujeres tienden a ser más refinadas y a tener un mejor gusto que los hombres.
+
+Mod1
+1. La discriminación en contra de las mujeres ya no es un problema en Costa Rica.
+
+Mod2
+2. A menudo las mujeres se pierden de buenos trabajos debido a la discriminación sexual
+
+Mod3
+3. Es inusual ver a las mujeres siendo tratadas de manera sexista en la televisión.
+
+Mod4
+4. En promedio, las personas en nuestra sociedad tratan a los esposos y  a las esposas equitativamente.
+
+Mod5
+5. La sociedad ha alcanzado el punto en que las mujeres y los hombres tienen igualdad de oportunidades para alcanzar logros.
+
+Mod6
+6. Es fácil entender el enojo de las asociaciones de mujeres en Costa Rica.
+
+Mod7
+7. Es fácil entender por qué las asociaciones de mujeres están preocupadas por las limitaciones sociales de sus oportunidades.
+
+Mod8
+8. En los últimos años, el gobierno y los medios de comunicación han mostrado más preocupación por el trato que se le da a las mujeres que el que realmente ellas viven.
+
+Neo1
+1. La discriminación hacia las mujeres en el mercado laboral ya no es un problema en Costa Rica.
+
+Neo2
+2. Considero que el sistema de empleo actual es injusto hacia la mujer.
+
+Neo3
+3.  Las mujeres no deberían meterse en donde no son bienvenidas.
+
+Neo4
+4. Las mujeres tendrán más progresos siendo pacientes y no presionando mucho por el cambio.
+
+Neo5
+5. Es difícil trabajar para una jefa.
+
+Neo6
+6. Las demandas en términos de igualdad entre los sexos son simplemente exageradas.
+
+Neo7
+7. A lo largo de los últimos años, las mujeres han obtenido más de parte del gobierno que lo realmente merecen.
+
+Neo8
+8. Las universidades están equivocadas en admitir mujeres en programas costosos tales como  medicina, cuando de hecho un gran número de ellas  dejaran sus trabajos después de unos años para criar a sus hijos.
+
+Neo9
+9. Para no parecer sexista,  muchos hombres tienden a sobre-compensar a las mujeres.
+
+Neo10
+10. Debido a las presiones sociales, las empresas frecuentemente contratan a mujeres poco calificadas.
+
+Neo11
+11. En un sistema justo de empleo, los hombres y las mujeres serían considerados iguales.
+
+actsex2
+Debido a mis valores personales, considero que tener estereotipos contra las mujeres no es correcto.
+
+actsex3
+Trato de no decir cosas negativas sobre las mujeres para evitar que otros reaccionen en  mi contra.
+
+actsex1
+Debido a los estándares de loq ue se considera políticamente correcto, into aparentar no ser sexista.
+
+actsex4
+Mis creencias me motivan personalmente a no ser prejuicioso(a) contra las mujeres.
+
+actsex5
+Es importante para mi no actuar de forma prejuiciosa en contra de las mujeres.
+
+actsex6
+Intento aparentar no ser prejuicioso(a)contra las mujeres para evitar la desaprobacion de otros.
+
+actsex7
+Intento no ser prejuicioso(a) contra de las mujeres por la presión que otras personas ejercen sobre mí.
+
+actsex8
+Me preocupa que otras personas se molesten conmigo si actúo prejuiciosamente hacia las mujeres.
+
+actsex9
+De acuerdo a mis valores personales, no está mal tener estereotipos sobre las mujeres.
+
+actsex10
+El no ser prejuiciso(a) contra las muejres es parte de mi mismo(a)
+
+voto1
+¿Votó usted por Laura Chinchilla?
+
+voto2
+¿Volvería a votar por ella?
+
+chin1
+¿Qué tan cálida cree usted que es esta presidente? C
+
+chin2
+¿Qué tan cordial cree usted que es esta presidente? C
+
+chin3
+¿Qué tan sincera cree usted que es esta presidente? C
+
+chin4
+¿Qué tan simpática cree usted que es esta presidente? C
+
+chin5
+¿Qué tan competente cree usted que es esta presidente? C
+
+chin6
+¿Qué tan segura de sí misma cree usted que es esta presidente? C
+
+chin7
+¿Qué tan capaz cree usted que es esta presidente? C
+
+chin8
+¿Qué tan hábil cree usted que es esta presidente? C
+
+bach1
+¿Qué tan cálida cree usted que es esta presidente? B
+
+bach2
+¿Qué tan cordial cree usted que es esta presidente? B
+
+bach3
+¿Qué tan sincera cree usted que es esta presidente? B
+
+bach4
+¿Qué tan simpática cree usted que es esta presidente? B
+
+bach5
+¿Qué tan competente cree usted que es esta presidente? B
+
+bach6
+¿Qué tan segura de sí misma cree usted que es esta presidente? B
+
+bach7
+¿Qué tan capaz cree usted que es esta presidente? B
+
+bach8
+¿Qué tan hábil cree usted que es esta presidente? B
+
+fer1
+¿Qué tan cálida cree usted que es esta presidente? F
+
+fer2
+¿Qué tan cordial cree usted que es esta presidente? F
+
+fer3
+¿Qué tan sincera cree usted que es esta presidente? F
+
+fer4
+¿Qué tan simpática cree usted que es esta presidente? F
+
+fer5
+¿Qué tan competente cree usted que es esta presidente? F
+
+fer6
+¿Qué tan segura de sí misma cree usted que es esta presidente? F
+
+fer7
+¿Qué tan capaz cree usted que es esta presidente? F
+
+fer8
+¿Qué tan hábil cree usted que es esta presidente? F
+
+panaspos
+
+
+panasneg
+
+
+creencias
+
+
